@@ -1,0 +1,7 @@
+# PATH
+amino_train_path: /home/mizuno/data/amino_data/GPCR/cv_0/train.txt
+amino_test_path: /home/mizuno/data/amino_data/GPCR/cv_0/test.txt
+family_info_path: /home/mizuno/data/amino_data/GPCR/cv_0/info.txt
+aaindex1_path: data/aaindex1.json
+
+output_path: /media/ssd/output
