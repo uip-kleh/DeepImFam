@@ -1,6 +1,6 @@
 import yaml
 
-class SecConfig:
+class SetConfig:
     def __init__(self, fname):
         with open(fname, "r") as f:
             args = yaml.safe_load(f)
